@@ -1,2 +1,1 @@
-# Elevate-Labs---Task-3
-Writing Basic SELECT Queries
+Basic SELECT Queries in the Library Management System database. The queries demonstrate data retrieval using SELECT * and specific columns, filtering with WHERE conditions including AND, OR, LIKE, and BETWEEN, and sorting results with ORDER BY in ascending and descending order. The schema and ER diagram remain the same as in Task 1, while this task focuses only on extracting and organizing data from the existing tables.
